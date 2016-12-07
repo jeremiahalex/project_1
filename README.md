@@ -6,3 +6,5 @@ How are you today?
 
 ### Hmm what's for lunch??
 #### Nothing
+
+Emojis work on GitHub too! :poop:
